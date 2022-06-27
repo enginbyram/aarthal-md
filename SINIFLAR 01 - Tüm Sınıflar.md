@@ -1,0 +1,36 @@
+# Sınıflar nedir, neden varlar ve ne işe yararlar?
+# Paladin
+Paladinler, inançlarına bağlı savaşçılardır. Kendi etiklerini, değerlerini ve inançlarını yaymak; onlara karşı gelenleri durdurmak için çarpışırlar. Erdem örneği olan paladinler, kendi panteonlarının kutsal büyülerini kullanabilme yetilerine sahiptirler. Bu paladinler yollarını kaybetmedikçe güçlerini ellerinde tutabilirler, ancak inançlarının dışına çıktıklarında kutsal büyü gücü ellerinden alınır.
+
+Paladin olma hayali kuran kişiler çoğunlukla kalpleri iyi olan kişielerdir, ancak kötü paladinler de az da olsa vardır.
+
+# Büyücü
+**Büyücüler**, [arkan büyü](https://aarthalopedia.miraheze.org/wiki/B%C3%BCy%C3%BC "Büyü") konusunda uzun soluklu araştırmalar yapmış ve ustalaşmış kişilerdir. Savaş gücü ve zırh konusundaki zayıflıklarını, geniş spektrumlu büyüleri; yıllarca gördükleri eğitim ve talim ile kapatırlar. Yetkin büyücüler, ellerindeki büyü yeteneği ile savaş alanını kontrol edebilir, kolayca geniş çaplı yıkımlara yol açabilir.
+
+Büyücüler genellikle, büyü kullanabilen sınıflar arasında en saygı duyulan sınıftır. Çünkü onlarda bulunan disiplin çoğunlukla diğer büyü sınıflarında yoktur, özellikle [ruhbazların](https://aarthalopedia.miraheze.org/w/index.php?title=Ruhbaz&action=edit&redlink=1 "Ruhbaz (sayfa mevcut değil)") ve [efsuncuların](https://aarthalopedia.miraheze.org/w/index.php?title=Efsuncu&action=edit&redlink=1 "Efsuncu (sayfa mevcut değil)") ele avuca sığmaz doğaları onların diğer büyü sınıflarından daha az saygı duyulmasına yol açar. Ancak her büyücü bu saygıyı hak etmeyebilir, zira büyücüler diğer sınıflar gibi doğası kötü veya kaotik olabilir.
+
+Çoğu büyücü, büyünün tanrısı [Mystic'e](https://aarthalopedia.miraheze.org/wiki/Mystic "Mystic") ibadet eder, aynı zamanda yine Mystic'in yardımcısı olan [Cyberus'a](https://aarthalopedia.miraheze.org/w/index.php?title=Cyberus&action=edit&redlink=1 "Cyberus (sayfa mevcut değil)") da ibadet edebilirler, zira Cyberus'un ta kendisi büyücülerin tanrısıdır. Aynı zamanda akademisyenlikleri daha öne çıkan büyücüler [Dogmae'ye](https://aarthalopedia.miraheze.org/w/index.php?title=Dogmae&action=edit&redlink=1 "Dogmae (sayfa mevcut değil)") de ibadet edebilir. Bu demek değildir ki büyücüler sadece bu tanrılara ibadet eder, sadece konu büyü olunca bu panteonlar daha ön plana çıkar.
+
+# Druid
+> Bazıları onlara ''"çiçek seviciler" diye alay eder, ancak bu alaycıları uyarmak isterim ki bizlere yardım eden börtü böcek, druidlerin irfanı sayesinde yardım eder!
+\- <small>[[Flaminthir Bel'donnadeir]], Lath Büyücü Loncası Lideri''</small>
+
+Kökenleri, [[elfler]]e dayanan **druidler** yıllar içerisindeki değişimleriyle sadece elflere bağlı kalmayıp bütün [[Öe]]'ye dağılmış ve diğer ırklar tarafından da benimsenmeye başlamıştır. Doğanın işleyişinde derin bilgi sahibi olan druidler; yabani canlıları veya [[yaygın ırklar]] tarafından öksüz bırakılmışları yaralarından veya hastalıklarından iyileştirirler.
+
+Druidlerin kutsal mabetleri olan korular bazıları için ayrıca sığınaklardır. Kutsal korularda kan dökülemez.
+## Kültür
+**Druidlerin amaçları medeniyet ve medeni yaşamlar ile genellikle hiç alakalı olmaz.** Onlar spesifik bir devletle veya devlet tipiyle bağlantılı değildir, druidler sadece bağlı oldukları camialardan emir alırlar. Bir druidin ulaşabileceği en yüksek mertebe [[Başdruid|başdruid'dir]], bu mertebeye ulaşmış druidler çok azdır, ve genellikle onlar kendi camialarının liderleri olurlar. [[Zümrüt Yoldaşlığı]] camiası kurulduğundan beri lideri olan [[Belegnor Amarthor]] bir başdruiddir, kendisi aynı zamanda ilk ölümlü druid olma sıfatını da taşır. 
+
+Gizemli doğalarıyla bilinen druidler, yabanları evleri gibi görürler; yabani canlılar nasıl yaşarsa onlar da öyle yaşamayı tercih ederler. Doğanın sağlığının düzen ve dengeden geldiğine inanan druidler evrenin dört elementinin -ateş, su, toprak, havanın bir denge içerisinde olması gerektiğine ve bu dengenin bozulmaması için uğraşılmasını tembihlerler, yoksa evrenin element düzlemleri tarafından domine edileceğinden kaygılanırlar. Aynı şekilde, druidler doğanın, medeniyetin konseptize ettiği iyi ve kötü, düzenli ve kaotik kavramlarının dışında çok farklı işlediğini düşünür; bu nedenle medenileşmiş dünyanın doğayı anlamadığını ve hiçbir zaman anlayamayacağını düşünmekten kaçınmaz.
+
+Doğanın gaddarlığını kabul eden druidler doğaya yabancı olan kavramlara da tiksintiyle yaklaşır. [[Aberasyon|aberasyon]] ve [[Meyitler|meyitlere]] karşı durup onların doğal düzeni bozduğunu düşünürler.
+
+Bu güçlü koruyucular, druidler, konuya yabancı olanlar tarafından yabanları yönetenler olarak görürler. Ancak şöyle farklıdır ki, druidler doğanın verdiği güçle büyük güçler kazansa da onlar kendilerini yabanların üstadları olarak görmektense onun servantları olarak görürler. [[Ruhban|Ruhbanların]] bir panteona tapması, veya bir şövalyenin lorduna bağlı kalması gibi onlar da doğaya bağlı olurlar. Bir druide göre doğadan üstün olma düşüncesi sadece ve sadece doğanın öğretileri hakkında münasip bilgiye sahip olmayanların ulaşacağı bir düşüncedir. Druidlerin ilkel güçleri, doğayı kontrol etmekten öte, onunla kurulan ruhani bütünlükten gelmektedir.
+### Druidler ve inanç
+Druidler diğer druidler ile kardeşliğe benzer bir bağ taşırlar, fakat yakın bağlar yerine daha çok uzak işbirlikçilikle yetinirler. Kralların ve prenseslerin getirdiği yapay bağları umursamazlar; bunun yerine evrenin her karışına saygı duyar ve korurlar, uzak diyarlarda yaşayan druidlerle sanki arkadaşlarıymış gibi ortak projeler başlatabilirler. Kendi toplumları arasında iletişim kurabilmek için gizli bir dil olan [[Druid dili|druid dilini]] kullanılar. Bu dil bütün druid camialarında bilinir. Bu camialara kabul edilmek için zorlu görevler ve gizli ayinler gerektirir. Fakat katılım gerçekleşirse çok nadiren atılırlar, ve görevlerini kendilerine has tarzda yapmalarına izin verilir.
+
+Çoğu camia doğası gereği panteonlara bağlıdır, fakat olmak zorunda değillerdir. Çoğu druid medeniyetten uzak panteonları tercih eder. Bunlar çoğunlukla Doğa Krallığı'ndan [[Silvanus]], [[Kynara]], [[Ghall]], [[Eldath]], [[Mielikki]] olurlar. Druidler bu panteonlara kendilerini adamaktan çok onları, servantları oldukları doğanın ana kaynağı olarak görürler. Bu nedenle doğaya duydukları saygıyı aynı şekilde bu tanrılara da iletirler.
+### Yaygın ırklarda druidler
+Druid kavramı, ilk olarak [[Elfler|elflerden]] çıkmıştır, ancak zamanla artan popülerliği sayesinde, [[İkinci Göç]] olayları sırasında [[İnsanlar|insanlar]] ve [[cincüceleri]] tarafından da benimsenmiştir. Ayrıca [[Gnoll|gnolllar]], [[yarımlıklar]] ve [[Tepe cüceleri]] de druidliğe yatkındır. Druidler, medeniyet kavramını tamamiyle reddetmiş olmaları nedeniyle [[Paladin|paladinler]], [[Düzenbaz|düzenbazlar]] ve [[Büyücü|büyücüler]] gibi bu kavramı içselleştirmiş olan kişilerle anlaşmakta güçlük çekerler. Onlar çoğunlukla aynı mantık çizgisinde oldukları [[Barbar|barbarlar]], [[İzci|izciler]] ve [[Şaman|şamanlar]] gibi kişilerle birlikte olmayı hedeflerler.
+
+#sınıflar #druid

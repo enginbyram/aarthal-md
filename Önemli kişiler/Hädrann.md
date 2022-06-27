@@ -1,0 +1,6 @@
+# Hädrann
+**Hädrann**, [İsyanlar Periyodu](https://aarthalopedia.miraheze.org/w/index.php?title=%C4%B0syanlar_Periyodu&action=edit&redlink=1 "İsyanlar Periyodu (sayfa mevcut değil)") zamanında yaşamış bir [Royne](https://aarthalopedia.miraheze.org/wiki/Royne_%C4%B0mparatorlu%C4%9Fu "Royne İmparatorluğu") ajanıdır. [Gözcülerin](https://aarthalopedia.miraheze.org/w/index.php?title=G%C3%B6zc%C3%BCler&action=edit&redlink=1 "Gözcüler (sayfa mevcut değil)") en vasıflı suikastçilerinden biri olduğu bilinir. Yıllar içerisinde yaptığı görevler sayesinde ünü bütün [Batı Aarthal](https://aarthalopedia.miraheze.org/wiki/Bat%C4%B1_Aarthal "Batı Aarthal") etrafında tanınır.
+
+Hayatına [Karaderinlik elflerinden](https://aarthalopedia.miraheze.org/wiki/Drow "Drow") biri olarak başlamış, yaptığı işte büyük başarılar kazandığı için Royne'lar tarafından paralı suikastçi olarak kullanılmıştır. Daha ileride ise Gözcü birliklerine tam kontrol erişimi verilmesi kaydında bir Royne askeri olarak görev yapması istenmiştir, o da kabul etmiştir.
+
+Çocukluğu hakkında pek bir bilgi yoktur. Söylenen rivayetlerden biri kendi annesini öldürdüğü idir.

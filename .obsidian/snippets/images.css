@@ -1,0 +1,11 @@
+img { 	display: block !important;
+	float: right !important;
+	clear: right !important;
+	padding: 6px !important;
+	border: 1px solid grey !important;
+	margin: 10px 10px !important;
+} 
+
+.markdown-source-view.mod-cm6 .cm-content > * { 
+	margin: auto auto !important;
+} 

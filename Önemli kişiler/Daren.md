@@ -1,0 +1,4 @@
+# Daren
+**Daren**, veya asıl ismi ile **Dtzu’dag**, [Shalar'daen](https://aarthalopedia.miraheze.org/wiki/Shalar%27daen "Shalar'daen") ile çalışmiş bir [şekildeğiştirendir](https://aarthalopedia.miraheze.org/w/index.php?title=%C5%9Eekilde%C4%9Fi%C5%9Ftiren&action=edit&redlink=1 "Şekildeğiştiren (sayfa mevcut değil)"). 938 yılında organizasyonu bırakıp [Örsbaşı'nda](https://aarthalopedia.miraheze.org/wiki/%C3%96rsba%C5%9F%C4%B1 "Örsbaşı") [Rhegar Fyregalion](https://aarthalopedia.miraheze.org/wiki/Rhegar "Rhegar") isimli bir [güneş elfi](https://aarthalopedia.miraheze.org/w/index.php?title=G%C3%BCne%C5%9F_elfi&action=edit&redlink=1 "Güneş elfi (sayfa mevcut değil)") için paralı askerlik yapmaya başlamıştır. Genellikle kırmızı ten rengine sahip bir [sapkın](https://aarthalopedia.miraheze.org/wiki/Sapk%C4%B1n "Sapkın") tasvirinde hayatına devam eder. Paragözlüğü ile bilinir.
+
+Üzerinde tırtıklı bir hançer taşır.

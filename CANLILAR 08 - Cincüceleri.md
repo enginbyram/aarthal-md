@@ -1,0 +1,2 @@
+# Cincüceleri nedir?
+**Cincüceleri**; küçük, iyi mizah anlayışına sahip, meraklı ve mekanik konularda anlayışa sahip bir ırktır. Evren tarihine dolaylı yollardan birçok küçük yardımlarda bulunmuşlardır, aynı boyları gibi. Üstün [büyü](https://aarthalopedia.miraheze.org/wiki/B%C3%BCy%C3%BC "Büyü") ve zanaat anlayışlarına rağmen çoğunlukla farkedilmezler. Eğer yerleşim yeri insansı-olmayan kültürlere toleranslı bir yer ise, örneğin [insan](https://aarthalopedia.miraheze.org/wiki/%C4%B0nsan "İnsan") şehirlerinde ve kervansaray kasabalarında, bulması kolay olur.

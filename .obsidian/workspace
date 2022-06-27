@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "af822055f50f7cec",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f8e538375198ada",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "COĞRAFYA 01 - Genel bilgiler; Süperkıtalar, Takımkıtalar, Kıtalar; Karaderinlik ve Bölgeler.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "95e9d7992e386367",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d3db8f677cef34c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a78519f77c72d14f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "91a2673bb8ee3b89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 544.5
+  },
+  "right": {
+    "id": "37cd8bc24f2d449c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d78fca6ff767682",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b06e9def0dddca49",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "COĞRAFYA 01 - Genel bilgiler; Süperkıtalar, Takımkıtalar, Kıtalar; Karaderinlik ve Bölgeler.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "cbdce44e3560746c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "COĞRAFYA 01 - Genel bilgiler; Süperkıtalar, Takımkıtalar, Kıtalar; Karaderinlik ve Bölgeler.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c1ecff64b0d93e05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 227.5,
+    "collapsed": true
+  },
+  "active": "9f8e538375198ada",
+  "lastOpenFiles": [
+    "COĞRAFYA 01 - Genel bilgiler; Süperkıtalar, Takımkıtalar, Kıtalar; Karaderinlik ve Bölgeler.md",
+    "COĞRAFYA 02 - Yerleşim yerleri ile mekanlar ve yapılar.md",
+    "TARİH 01 - Genel bakış.md",
+    "KOZMOLOJİ 03 - İnanç sistemleri ve Tanrılar.md",
+    "KOZMOLOJİ 02 - Büyü.md",
+    "KOZMOLOJİ 01 - Kozmoloji ve düzlemler.md",
+    "COĞRAFYA 03 - Yerşekilleri.md",
+    "CANLILAR 01 - Hayvanlar.md",
+    "ORGANİZASYONLAR 04  - Hırsız Loncaları.md",
+    "ORGANİZASYONLAR 02 - Maceracı partileri.md"
+  ]
+}

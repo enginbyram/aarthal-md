@@ -1,0 +1,18 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "foldHeading": true,
+  "foldIndent": false,
+  "spellcheck": false,
+  "communityThemeSortOrder": "download",
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "alphabetical",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 75
+  }
+}

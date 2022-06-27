@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Primary",
+  "translucency": false,
+  "theme": "moonstone",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSize": 15,
+  "interfaceFontFamily": "",
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": []
+}
