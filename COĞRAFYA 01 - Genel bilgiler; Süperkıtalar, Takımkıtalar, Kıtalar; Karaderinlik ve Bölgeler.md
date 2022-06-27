@@ -93,6 +93,21 @@ Aarthal takımkıtasının ve aynı şekilde Batı Aarthal'ın içinde bulunduğ
 
 # Bölüm IV: En küçük kardeş Öe'nin kıtaları
 ## Batı Aarthal
+```leaflet
+id: bati_aarthal_map
+image: [[bati_aarthal_map.png]]
+height: 600px
+width: 500px
+lat: 50
+long: 50
+minZoom: 5
+maxZoom: 8
+defaultZoom: 5
+unit: meters
+recenter: true
+noScrollZoom: true
+
+```
 **Batı Aarthal**, - bölgenin sakinlerinin kendi argolarıyla da **Batı**,  Aarthal'ın yaşanmaya elverişli kısımlarının bulunduğu yere verilen addır. Kuzey Aarthal'daki tahribin ardından çoğu kişi Batı Aarthal'a doğru göç etmiştir.
 
 Kıta, Elf Denizi'nin doğu sahilleri olan Esthara'dan başlar, ve Kanayan ormanlar'ın doğu sınırında biter. [[Birinci Çağ]] sırasında [[Elfler]] tarafından büyük değişimlere uğramıştır.
