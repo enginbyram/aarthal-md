@@ -32,9 +32,8 @@ Coğrafya kategorisi(kısaca coğrafya), kendi içinde pek çok farklı alt kate
 **Öe**, materyal evren içerisinde bulunan bir gezegendir. [[KOZMOLOJİ 03 - İnanç sistemleri ve Tanrılar#Lathlander|Lathlander'ın]](bir tanrı olmasının yanı sıra Öe'nin etrafında döndüğü yıldızın adıdır) etrafında döner, uyduları [[KOZMOLOJİ 03 - İnanç sistemleri ve Tanrılar#Selûne|Selûne]] ve [[KOZMOLOJİ 03 - İnanç sistemleri ve Tanrılar#Nazg|Citra Lîs'dir]]. Batı Aarthal kıtası onun üzerinde bulunur.
 
 ### Tarih
->*[...]Az buz değil, çokça ilerledikten sonra onlara yardım gelmeyeceğini farkettiler. Öe ağlamaktan bitap, Selûne kara kara düşünürken Citra Lîs'in aklına bir fikir geldi. kardeşleri Selûne ve Öe'ye son kez baktı, onlara gülümsedi ve alınlarına son öpücüklerini kondurdu. Öksüz enerjilerden birini yakaladı ve onu acı çekerek ısırdı. Kocaman bir enerjiyi midesine indirdikten sonra onların etkilenmeyeceği bir noktaya doğru bütün enerjisini tükürdü. Kocaman bir patlamanın sonucunda onları karanlıktan koruyacak ışığı yaratmış oldu, Öe ise abisinin bedenine sonsuza denk sarılmak için uzandı.*
->
->*-Tarih, Batı Aarthal Tarihi*
+>[...]Az buz değil, çokça ilerledikten sonra onlara yardım gelmeyeceğini farkettiler. Öe ağlamaktan bitap, Selûne kara kara düşünürken Citra Lîs'in aklına bir fikir geldi. kardeşleri Selûne ve Öe'ye son kez baktı, onlara gülümsedi ve alınlarına son öpücüklerini kondurdu. Öksüz enerjilerden birini yakaladı ve onu acı çekerek ısırdı. Kocaman bir enerjiyi midesine indirdikten sonra onların etkilenmeyeceği bir noktaya doğru bütün enerjisini tükürdü. Kocaman bir patlamanın sonucunda onları karanlıktan koruyacak ışığı yaratmış oldu, Öe ise abisinin bedenine sonsuza denk sarılmak için uzandı.
+>-Tarih, Batı Aarthal Tarihi
 
 # Bölüm III: Süperkıtalar ve Takımkıtalar nedir? Ne işe yararlar?
 Kıtaları daha iyi kategorize edebilmek amacıyla iki farklı kıta kategorisi daha vardır.
@@ -106,8 +105,8 @@ defaultZoom: 5
 unit: meters
 recenter: true
 noScrollZoom: true
-
 ```
+
 **Batı Aarthal**, - bölgenin sakinlerinin kendi argolarıyla da **Batı**,  Aarthal'ın yaşanmaya elverişli kısımlarının bulunduğu yere verilen addır. Kuzey Aarthal'daki tahribin ardından çoğu kişi Batı Aarthal'a doğru göç etmiştir.
 
 Kıta, Elf Denizi'nin doğu sahilleri olan Esthara'dan başlar, ve Kanayan ormanlar'ın doğu sınırında biter. [[Birinci Çağ]] sırasında [[Elfler]] tarafından büyük değişimlere uğramıştır.

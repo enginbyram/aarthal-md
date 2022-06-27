@@ -1,5 +1,4 @@
 # Elfler hakkında
-#canlılar #ırklar #elfler #fey #humanoid
 **Calanyar** veya **Elfler**, fey ırklarının uzun ömürlülerindendir. Zamandan zamana güçlü uluslar kurmuşlardır, duruma göre göçebe yaşam stilini benimsemişlerdir. Neredeyse bütün elfler [[KOZMOLOJİ 03 - İnanç sistemleri ve Tanrılar#Seladrine panteonları|Seladrine panteonlarına]] ibadet ederler, ve elfler çoğunlukla, doğaları gereği iyi kalplidir ve uç tavırları vardır. Dört farklı gruba ayrılırlar. Bunlar [[KOZMOLOJİ 01 - Kozmoloji ve düzlemler#Feydiyarı|Feydiyarı'ndan]] kendi rızalarıyla gelen Aran Amothyar veya Üstün Elfler, Feydiyarı'ndan kovulan Echor Noldoran veya Kovulanlar, Üçüncü ve kendi rızalarıyla gelen Calen Sylvan veya Silvanus'un Takipçileri, Tam olarak elf olmayan Egeloth Dhwan veya Farklı Olanlar.
 
 ## Tasvir

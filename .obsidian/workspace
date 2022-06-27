@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9f8e538375198ada",
+        "id": "194830f79f88d7a6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "COĞRAFYA 01 - Genel bilgiler; Süperkıtalar, Takımkıtalar, Kıtalar; Karaderinlik ve Bölgeler.md",
-            "mode": "preview",
+            "file": "CANLILAR 00 - Genel bakış.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 544.5
+    "width": 311.5
   },
   "right": {
     "id": "37cd8bc24f2d449c",
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COĞRAFYA 01 - Genel bilgiler; Süperkıtalar, Takımkıtalar, Kıtalar; Karaderinlik ve Bölgeler.md",
-                "collapseAll": false,
+                "file": "CANLILAR 00 - Genel bakış.md",
+                "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COĞRAFYA 01 - Genel bilgiler; Süperkıtalar, Takımkıtalar, Kıtalar; Karaderinlik ve Bölgeler.md",
+                "file": "CANLILAR 00 - Genel bakış.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -110,17 +110,17 @@
     "width": 227.5,
     "collapsed": true
   },
-  "active": "9f8e538375198ada",
+  "active": "194830f79f88d7a6",
   "lastOpenFiles": [
+    "CANLILAR 00 - Genel bakış.md",
+    "CANLILAR 07 - Bitkiler.md",
+    "CANLILAR 01 - Hayvanlar.md",
+    "CANLILAR 05 - Ejderhalar ve ejderimsiler.md",
+    "CANLILAR 06 - Meyitler.md",
+    "CANLILAR 03 - İnsanlar ve alt kültürler.md",
     "COĞRAFYA 01 - Genel bilgiler; Süperkıtalar, Takımkıtalar, Kıtalar; Karaderinlik ve Bölgeler.md",
-    "CANLILAR 09 - Cüceler.md",
-    "CANLILAR 10 - Yarımlıklar.md",
-    "COĞRAFYA 02 - Yerleşim yerleri ile mekanlar ve yapılar.md",
-    "TARİH 01 - Genel bakış.md",
-    "KOZMOLOJİ 03 - İnanç sistemleri ve Tanrılar.md",
-    "KOZMOLOJİ 02 - Büyü.md",
-    "KOZMOLOJİ 01 - Kozmoloji ve düzlemler.md",
-    "COĞRAFYA 03 - Yerşekilleri.md",
-    "CANLILAR 01 - Hayvanlar.md"
+    "CANLILAR 02 - Elfler ve alt-grupları.md",
+    "attachments/bati_aarthal_map.png",
+    "TARİH 01 - Genel bakış.md"
   ]
 }
