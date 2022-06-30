@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "37cd8bc24f2d449c",
@@ -113,13 +114,13 @@
   "active": "194830f79f88d7a6",
   "lastOpenFiles": [
     "CANLILAR 00 - Genel bakış.md",
+    "CANLILAR 02 - Elfler ve alt-grupları.md",
     "CANLILAR 07 - Bitkiler.md",
     "CANLILAR 01 - Hayvanlar.md",
     "CANLILAR 05 - Ejderhalar ve ejderimsiler.md",
     "CANLILAR 06 - Meyitler.md",
     "CANLILAR 03 - İnsanlar ve alt kültürler.md",
     "COĞRAFYA 01 - Genel bilgiler; Süperkıtalar, Takımkıtalar, Kıtalar; Karaderinlik ve Bölgeler.md",
-    "CANLILAR 02 - Elfler ve alt-grupları.md",
     "attachments/bati_aarthal_map.png",
     "TARİH 01 - Genel bakış.md"
   ]

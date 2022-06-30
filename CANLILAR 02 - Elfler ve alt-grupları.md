@@ -53,11 +53,9 @@ Yeşil elfler bu savaşlarda bir çok mağlubiyet aldılar ve bütün topraklar�
 Birinci Çağ'ın ortalarına doğru insanlar gelmeye başladı. Böylece Batı Aarthal'daki güç dengesi elflerin elinden yavaş yavaş kaydı.
 
 # Aran Amothyar
-#aran-amothyar
 Aran Amothyar, veya ortak dilde Üstün Elfler; Feydiyarı'na gelen ilk elf grubundakilerdir. Bu gruptakilerin göçleri, Batı Aarthal üzerindeki ilk medeniyetlerin kurulmasını sağlamıştır.
 
 ## Sêl'Tar
-#sel-tar #gümüş-elfler
 **Ay elfleri**(Namarie dilinde: **Sêl'Tar**, veya **gümüş elfler**), en bilinir elf alt kültürüdür. İnsanlara, diğer elf akranlarından daha toleranslıdır ve çoğu yarı-elflerin atalarıdır. Bazı kaynaklarda üstün elfler olarak da geçer, bazen ise basitçe eladrin denir, ancak yanlıştır.
 
 ### Tanım
@@ -77,19 +75,15 @@ Ay elfleri Aarthal'a gelen ilk elflerden değillerdi, ancak sayıca en fazla ola
 Oriyan Preya'nın yıkılışından sonra, çoğu ay elfi bir çok farklı elf ülkesi kurmaya yardım etti. Başarılı olan şehirlerden Nilth ve Lythara kurulduklarından beri hala ayakta durmaktadır. Mire Gronnar ise Caen'in Gazabı sırasında düşerek yok olmuştur.
 
 ## Güneş elfleri
-#güneş-elfleri #batı-elfleri
 * Güneş elfleri. Batı Elfleri olarak da bilinen güneş elfleri, büyülere, özellikle elf büyüsüne yatkınlıkları ile bilinirler. Oldukça rasyonel bakış açıları vardır. Onlar için duyguların aşırı uçları manasız, tanrıların bahşettiği bilince aykırı bir durumdur. Güneş elflerine batı elfleri denmesinin sebebi ise Elf denizi'nin batısının onların evi olmasındandır.
 
 ## Yıldız elfleri
-#yıldız-elfleri #mithral-elfler
 * Yıldız elfleri. Mithral Elfler olarak da bilinen yıldız elfleri, beyaz tenleri ve tenlerine zıt şekilde koyu saç renkleriyle bürünmüşlerdir. Diğer ırklar onları "burnu havada" olarak betimler. Kendi kanlarına karşı ılımlı ancak tarihsel sebepler nedeniyle diğerlerine karşı soğuk tavırları vardır. Oldukça atik olan bu ırk savaş sanatlarında usta olmakla kalmayıp Büyü konusunda da marifetlidir.
 
 # Echor Noldoran
-#echor-noldoran #kovulanlar
 Echor Noldoran, veya ortak dilde Kovulanlar; Feydiyarı'ndan kovulmuş, materyal evren'e gelmiş olan ikinci gruptur. Drow'lar gibi, bu gruptaki bazı elfler farklı tanrıların takipçisi olmuşlardır.
 
 ## Drowlar
-#drowlar #kara-elfler #karanlık-seladrine  #derin-elfler #akşam-elfler
 **Drowlar**(okunuşu: /drəʊ/ draw veya: /droʊ/ dro), diğer adıyla kara elfler, derin elfler, akşam elfleri, veya bazen yeryüzünde Derinlere Gidenler olarak bilinirler. Elflerin koyu tenli akranları olan bu türün doğal bölgesi Karaderinlik bölgesidir. Gaddarlıkları nedeniyle çoğu ırk tarafından korkulur ve nefret edilirler. Ancak bazı drowlar iyi kalplidir.
 
 ### Tasvir
